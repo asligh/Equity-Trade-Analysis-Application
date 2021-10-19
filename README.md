@@ -38,16 +38,6 @@ for the same period.  If the timeperiod for a security is less than 261 days, da
 
 Data is static, no dependencies other than existence of trade records
 
-## Stored Procedures Called
-None
-
-## Referenced Tables
-None
-
-## Code Snippit
-
-![WallStreet](Images/CodeSnippit.png)
-
 ## 2014 Analysis
 
 ![WallStreet](Images/2014.png)
