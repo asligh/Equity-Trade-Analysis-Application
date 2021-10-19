@@ -34,10 +34,6 @@ for the same period.  If the timeperiod for a security is less than 261 days, da
 1. This solution does not scale and is only for relatively small datasets. As records grow into the millions, a different approach would be needed.
 2. Conditional formatting is not applied in the formal sense in order to optimize performance. Cell shading is done as a workaround.
 
-## Limitations
-
-Data is static, no dependencies other than existence of trade records
-
 ## 2014 Analysis
 
 ![WallStreet](Images/2014.png)
@@ -49,6 +45,3 @@ Data is static, no dependencies other than existence of trade records
 ## 2016 Analysis
 
 ![WallStreet](Images/2016.png)
-
-
-
