@@ -4,7 +4,7 @@
 
 ## Background
 
-Trade history records are critical to an organization's reputation and clients. This application efficiently processes and analyzes voluminous trade records within
+Trade history records are critical to an organization's reputation and clients. This application efficiently processes and analyzes voluminous trade record data within
 Excel using VBA
 
 ## Data Overview
